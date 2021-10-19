@@ -1,10 +1,4 @@
-<br />
-
 <div align="center">
-  <a href="https://github.com/GDimitroff/omnifood">
-    <img src="https://omnifood-gdimitrov.netlify.app/img/omnifood-logo.png" alt="Logo" width="200">
-  </a>
-
   <h1 align="center">Omnifood</h1>
 
   <p align="center">
