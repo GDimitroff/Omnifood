@@ -1,3 +1,5 @@
+<br />
+
 <div align="center">
   <a href="https://github.com/GDimitroff/omnifood">
     <img src="https://omnifood-gdimitrov.netlify.app/img/omnifood-logo.png" alt="Logo" width="200">
@@ -36,4 +38,4 @@ Project Link: [https://github.com/GDimitroff/omnifood](https://github.com/GDimit
 
 ## Acknowledgments
 
-The Omnifood project is built as a part of Udemy HTML5 and CSS3 course from Jonas Schmedtmann.
+The Omnifood project is built as a part of Udemy HTML5 and CSS3 course by Jonas Schmedtmann.
